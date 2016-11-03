@@ -1,0 +1,43 @@
+一、
+《计算语言学思想碰撞的浪潮：ACL 2016》http://weibo.com/ttarticle/p/show?id=2309404014959427204436
+来自：MSRA
+与会博客：https://www.microsoft.com/en-us/research/blog/microsoft-nlp-researchers-converge-acl-2016-edging-ever-closer-human-like-conversational-experiences/
+
+CCG：Combinatory Categorial Grammar
+Mark Steedman：语义任务中要解决的最难问题不是逻辑运算，而是在同一语义下能表达的语言是多变的，“如何定义内容(content)并使之能够支持逻辑运算和常识推理”是关键；
+讲义：《On Distributional Semantics》
+标签：语义
+
+LFG：Lexical Functional Grammar
+Joan Bresnan：强调结构对语言的重要性，提出了句法结构、参数结构、形态结构等，成为了许多机器翻译工具的理论基础。
+标签：结构
+
+E.Dario Gutierrez：词形式和词义之间是否有联系的问题，从全局更好的找到从词形式到词义的映射关系，用统计学习模型解决十分纯粹的morphology形态学问题；
+论文：《Finding Non-Arbitrary Form-Meaning Systematicity Using String-Metric Learning for Kernel Regression》
+标签：语义
+
+Pei-Hao Su：在线学习框架，可以显著减少在语音对话系统中使用强化学习所需的数据标注量，并减弱用户反馈中数据噪音对于对话系统策略学习的影响；
+论文：《On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue System》
+标签：语音
+
+其他：
+王海勋：短文本理解，多种基于知识库的显示表达模型及应用；
+原文：http://www.wangzhongyuan.com/tutorial/ACL2016/Understanding-Short-Texts/
+标签：短文本
+
+MSRA参会论文：
+《How Well Do Computers Solve Math Word Problems? Large Scale Dataset Construction and Evaluation》：自动解数学题，半自动搜集带标注数学题；
+标签：检索，自动化
+《DocChat: An Information Retrieval Approach for Chatbot Engines Using Unstructured Documents》：种基于检索与排序直接从非结构化文档中选取句子作为聊天机器人回复的方法。；
+标签：非结构文本检索
+
+二、
+《大牛带你读论文|自然语言处理》http://weibo.com/ttarticle/p/show?id=2309404036613901571862&sudaref=mail.163.com&retcode=6102
+（cont.）
+
+
+
+
+
+
+
